@@ -1,1 +1,8 @@
+[theme.light]
 
+backgroundColor = "#bface1"
+textColor = "#e6f3fb"
+primaryColor = "#f277a1"
+secondaryBackgroundColor = "white"
+borderColor = "#bface1"
+codeBackgroundColor = "#f277a1"
